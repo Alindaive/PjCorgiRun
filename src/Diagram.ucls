@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="objectgame.Enemy" project="CorgiRuns" file="/CorgiRuns/src/objectgame/Enemy.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="148" x="1076" y="396"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="thegame.GameScreen" project="CorgiRuns" 
+    file="/CorgiRuns/src/thegame/GameScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="165" x="804" y="396"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="objectgame.Land.ImageLand" project="CorgiRuns" 
+    file="/CorgiRuns/src/objectgame/Land.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="131" x="27" y="1232"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="objectgame.Bgstatefrist" project="CorgiRuns" 
+    file="/CorgiRuns/src/objectgame/Bgstatefrist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="163" x="228" y="895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="objectgame.EnemyManegerBird" project="CorgiRuns" 
+    file="/CorgiRuns/src/objectgame/EnemyManegerBird.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="262" x="1111" y="77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="objectgame.Overstate" project="CorgiRuns" 
+    file="/CorgiRuns/src/objectgame/Overstate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="155" x="431" y="895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="thegame.ThegameWindow" project="CorgiRuns" 
+    file="/CorgiRuns/src/thegame/ThegameWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="123" x="641" y="77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="objectgame.Land" project="CorgiRuns" file="/CorgiRuns/src/objectgame/Land.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="161" x="27" y="895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="objectgame.Clounds" project="CorgiRuns" 
+    file="/CorgiRuns/src/objectgame/Clounds.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="157" x="626" y="895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="objectgame.Rocks" project="CorgiRuns" file="/CorgiRuns/src/objectgame/Rocks.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="171" x="1076" y="895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="pic.Resource" project="CorgiRuns" file="/CorgiRuns/src/pic/Resource.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="226" x="201" y="77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="objectgame.MainCharacter" project="CorgiRuns" 
+    file="/CorgiRuns/src/objectgame/MainCharacter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="134" x="1036" y="1232"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="pic.Animation" project="CorgiRuns" file="/CorgiRuns/src/pic/Animation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="182" x="1036" y="1713"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="objectgame.Bird" project="CorgiRuns" file="/CorgiRuns/src/objectgame/Bird.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="171" x="844" y="895"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="objectgame.EnemyManegerRock" project="CorgiRuns" 
+    file="/CorgiRuns/src/objectgame/EnemyManegerRock.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="267" x="804" y="77"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <nesting id="17">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <association id="18">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="19" name="characterRun">        
+        <position height="18" width="74" x="1008" y="1674"/>      
+      </attribute>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="22" name="listImage"/>      
+      <multiplicity id="23" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <bendpoint x="813" y="895"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="25" name="mainCharacter"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="28" name="enemiesManager">        
+        <position height="18" width="90" x="819" y="359"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="1">        
+        <position height="16" width="23" x="928" y="373"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="31">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="32" name="bird"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <bendpoint x="1277" y="396"/>    
+    <bendpoint x="1277" y="895"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="35" name="mainCharacter"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="38" name="enemiesManager1"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="41" name="characterImage">        
+        <position height="18" width="83" x="1007" y="1692"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="1">        
+        <position height="16" width="23" x="1095" y="1683"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="44" name="gameScreen"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="47" name="bgst1"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="50" name="land"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="53" name="clound"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="56" name="gameScreen"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="59" name="enemies1"/>      
+      <multiplicity id="60" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="62" name="bgst3"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="65" name="mainCharacter">        
+        <position height="18" width="78" x="1051" y="1215"/>      
+      </attribute>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="68" name="mainCharacter"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <bendpoint x="1045" y="396"/>    
+    <bendpoint x="1045" y="895"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="71" name="mainCharacter">        
+        <position height="18" width="78" x="1043" y="1194"/>      
+      </attribute>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="74" name="enemies"/>      
+      <multiplicity id="75" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="77" name="gameScreen">        
+        <position height="18" width="69" x="823" y="375"/>      
+      </attribute>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

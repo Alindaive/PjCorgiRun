@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CorgiRuns">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CorgiRuns.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
