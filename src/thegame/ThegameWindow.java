@@ -20,11 +20,14 @@ public class ThegameWindow extends JFrame {
        gameScreen = new GameScreen();//สร้าง
        add(gameScreen);//เพิ่มgamescreenในThegameWindow
        addKeyListener(gameScreen);//เพิ่มในKeyListenerในgameScreen
+       
     }
     
     public void starGame(){
         gameScreen.startGame();
     }
+    
+    
     
     
     public static void main(String[] args) {

@@ -41,6 +41,7 @@ public class GameScreen extends JPanel implements Runnable, KeyListener{
     private EnemyManegerRock enemiesManager;
     private EnemyManegerBird enemiesManager1;
     private Bird bird;
+    private HelpWindow helpscreen;
     private int i=0;
     private int gameState;
     private int score;
@@ -48,6 +49,7 @@ public class GameScreen extends JPanel implements Runnable, KeyListener{
     private Thread thread;
     public GameScreen(){
         //setBackground(Color.RED); //สีแบลคกราว
+        helpscreen = new HelpWindow();
         thread = new Thread(this);
         mainCharacter = new MainCharacter();//สร้างObjectชื่อ
         land = new Land();
@@ -178,6 +180,11 @@ public class GameScreen extends JPanel implements Runnable, KeyListener{
     public void keyPressed(KeyEvent e) { //รันmethod เมือกดE
         //mainCharacter.jump();//ให้Objectที่สร้าในคลาส เรียกmedthod .jump
         switch(e.getKeyCode()){
+            case KeyEvent.VK_CONTROL:
+                if(gameState==GAME_FIRST_STATE){
+                      helpscreen.display();
+                }
+            break;
             case KeyEvent.VK_ENTER:
                 if(gameState==GAME_FIRST_STATE){
                     mainCharacter.setCharacter();
